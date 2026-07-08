@@ -4,3 +4,4 @@ import androidx.compose.ui.graphics.Color
 
 val failure = Color(0x92FF9EA1)
 val success = Color(0x92A8FF9E)
+val neutral = Color(0x92C4C4C4)
